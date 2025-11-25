@@ -1,0 +1,26 @@
+
+/* Container for the whole page */
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+}
+
+/* Header styling */
+.header {
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+/* Map wrapper */
+.mapDisplay {
+  width: 100%;
+  max-width: 700px;
+  height: 450px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
