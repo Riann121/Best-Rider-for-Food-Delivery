@@ -1,5 +1,5 @@
-import riderList from "../DataList/rider.js";
-import clientList from "../DataList/client.js";
+import riderList from "../user/rider.js";
+import clientList from "../user/client.js";
 import dotenv from 'dotenv'
 dotenv.config({ path: '../.env' })
 

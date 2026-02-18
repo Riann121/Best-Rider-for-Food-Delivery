@@ -1,0 +1,42 @@
+{
+  "Rider 1": {
+    "latitude": 23.755123,
+    "longitude": 90.412845
+  },
+  "Rider 2": {
+    "latitude": 23.760982,
+    "longitude": 90.427391
+  },
+  "Rider 3": {
+    "latitude": 23.748661,
+    "longitude": 90.432154
+  },
+  "Rider 4": {
+    "latitude": 23.771209,
+    "longitude": 90.418674
+  },
+  "Rider 5": {
+    "latitude": 23.779102,
+    "longitude": 90.407512
+  },
+  "Rider 6": {
+    "latitude": 23.750447,
+    "longitude": 90.439221
+  },
+  "Rider 7": {
+    "latitude": 23.768912,
+    "longitude": 90.403891
+  },
+  "Rider 8": {
+    "latitude": 23.758304,
+    "longitude": 90.429845
+  },
+  "Rider 9": {
+    "latitude": 23.774560,
+    "longitude": 90.414772
+  },
+  "Rider 10": {
+    "latitude": 23.745889,
+    "longitude": 90.437330
+  }
+}
